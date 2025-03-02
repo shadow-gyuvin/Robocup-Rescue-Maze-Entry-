@@ -62,11 +62,11 @@ else
      rb.motor[0].rotate(-130);
      rb.motor[1].rotate(-130);
      }
- } // Delete after done testing
+
     
      
     
-     /**
+ 
      if(3 <= Red && 5 >= Blue && 5 >= Green && 0 == Lux) 
      {
       rb.motor[0].rotate(-150);
@@ -132,7 +132,7 @@ else
      }
   
  }
-*/
+
 
 
 // Black = Red: 4 Green: 4 Blue: 4 Clear: 4 Temperature: 8890 Lux: 2
